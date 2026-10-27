@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://streak-stats.demolab.com/?user=AsyraafRazak&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AsyraafRazak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-My website with partner (https://github.com/DanishDa22) : https://twodazzle.com/#signup
+https://asyraafrazak.twodazzle.com/ : https://twodazzle.com/#signup
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
