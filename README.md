@@ -7,6 +7,11 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DanishDa22&label=Profile%20views&color=7C3AED&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Based%20in-%20Malaysia%20🇲🇾-0A0417?style=flat&labelColor=7C3AED" />
+</p>
+
+<p align="center">
   <a href="https://asyraafrazak.twodazzle.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://twodazzle.com/"><img src="https://img.shields.io/badge/TwoDazzle-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/asyraafrazak"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
