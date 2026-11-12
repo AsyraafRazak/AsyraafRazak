@@ -34,14 +34,13 @@
 
 ## Activity
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AsyraafRazak&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=9ca3af&text_color=d1d5db" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsyraafRazak&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d1d5db" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsyraafRazak&bg_color=00000000&color=9ca3af&line=ffffff&point=06b6d4&area=true&area_color=6366f1&hide_border=true" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=AsyraafRazak&theme=transparent&hide_border=false&title_color=fafafa&text_color=a1a1aa&icon_color=10b981&border_color=27272a&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=AsyraafRazak&theme=transparent&hide_border=false&ring=10b981&fire=10b981&currStreakLabel=fafafa&sideLabels=a1a1aa&currStreakNum=fafafa&sideNums=fafafa&dates=71717a&border=27272a" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AsyraafRazak&theme=transparent&hide_border=false&title_color=fafafa&text_color=a1a1aa&border_color=27272a&layout=compact&langs_count=8" alt="Top Languages" />
+</div>
 
 <img src="assets/divider.svg" width="100%" />
 
