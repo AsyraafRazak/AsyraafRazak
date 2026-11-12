@@ -15,47 +15,6 @@
 
 <img src="assets/divider.svg" width="100%" />
 
-## About
-
-Software Engineer who builds and integrates enterprise software, from **POS systems** to **full-stack web platforms**.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>NOW</sub><br/>
-      <b>Junior Software Engineer</b><br/>
-      Cuscapi Innovation Lab Sdn Bhd<br/><br/>
-      POS apps: <i>QRMenu, Kiosk Menu, Transight POS</i><br/>
-      Middleware: <i>PTI Web API, Windows Services, Web Services</i><br/>
-      <code>C#</code> <code>VB6</code> <code>SQL</code>
-    </td>
-    <td width="50%" valign="top">
-      <sub>BEFORE</sub><br/>
-      <b>System Development & Technical Support (MySTEP)</b><br/>
-      <b>Software Engineer Intern</b><br/>
-      Ministry of Tourism, Arts and Culture (MOTAC)<br/><br/>
-      <i>Intranet MOTAC, TTMS, ATF 2025 Microsite</i><br/>
-      <code>Laravel</code> <code>Vue.js</code> <code>Joomla</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>STUDIO</sub><br/>
-      <b>Founder & Web Developer</b><br/>
-      <a href="https://twodazzle.com/">TwoDazzle</a><br/><br/>
-      Custom, fast and responsive websites built from scratch.
-    </td>
-    <td width="50%" valign="top">
-      <sub>EDUCATION</sub><br/>
-      <b>B.SE with Honours (Multimedia System Development)</b><br/>
-      Universiti Kebangsaan Malaysia<br/><br/>
-      CGPA <b>3.92</b> · Dean's List Award
-    </td>
-  </tr>
-</table>
-
-<img src="assets/divider.svg" width="100%" />
-
 ## Stack
 
 <p align="center">
