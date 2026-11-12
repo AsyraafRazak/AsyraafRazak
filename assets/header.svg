@@ -53,12 +53,6 @@
     <rect class="sweep" x="0" y="40" width="180" height="280" fill="url(#shine)"/>
   </g>
 
-  <!-- status pill -->
-  <g class="fade d1">
-    <rect x="130" y="100" width="350" height="32" rx="16" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.18"/>
-    <circle class="dot" cx="152" cy="116" r="5" fill="#22c55e"/>
-    <text x="166" y="121" font-size="14" fill="#d1d5db" letter-spacing="1">CURRENTLY SHIPPING POS @ CUSCAPI</text>
-  </g>
 
   <text class="fade d2" x="130" y="198" font-size="50" font-weight="700" fill="url(#text)">Muhammad Asyraaf bin Razak</text>
   <text class="fade d3" x="132" y="248" font-size="20" fill="#9ca3af" letter-spacing="0.5">Junior Software Engineer  ·  Web Developer @ TwoDazzle  ·  Malaysia</text>
